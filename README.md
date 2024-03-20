@@ -20,6 +20,9 @@ Jacobi Method (jacobi.py): Implements the Jacobi iterative method for solving li
 
 Newton-Cotes Integration (newton_cotes.py): Implements Newton-Cotes numerical integration methods for approximating definite integrals.
 
+# Contributions
+Contributions to this repository are not applicable as this is intended for educational purposes within the scope of a university assignment.
+
 # Usage:
 Each program can be executed individually by running the corresponding Python file. Instructions for usage and sample inputs are provided within the code comments.
 
